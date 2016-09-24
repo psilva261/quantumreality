@@ -43,10 +43,10 @@ public class CircularPathBuilderEditor : Editor{
 				0
 			);
 
-			position        *= radius;
-			Transform child  = Instantiate(prefab);
-			child.parent     = transform;
-			child.position   = position;
+			position           *= radius;
+			Transform child     = Instantiate(prefab);
+			child.parent        = transform;
+			child.localPosition = position;
 		}
 	}
 	
