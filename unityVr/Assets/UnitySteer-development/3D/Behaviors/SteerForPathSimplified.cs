@@ -47,14 +47,14 @@ namespace UnitySteer.Behaviors
         /// How far along the path we were the last time we calculated forces?
         /// </summary>
         /// <value>The last path distance evaluated.</value>
-        public float DistanceAlongPath { get; private set; }
+        public virtual float DistanceAlongPath { get; private set; }
 
 
         /// <summary>
         /// What percentage of the path we had traversed when we last evaluated?
         /// </summary>
         /// <value>The last path percentage evaluated.</value>
-        public float PathPercentTraversed
+        public virtual float PathPercentTraversed
         {
             get { return (Path != null && Path.TotalPathLength > 0) ? DistanceAlongPath / Path.TotalPathLength : 0; }
         }

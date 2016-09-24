@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnitySteer;
@@ -18,7 +17,7 @@ public class PathFollowingController : MonoBehaviour
 	// Use this for initialization
 	void Start() 
 	{
-		_steering = GetComponent<SteerForPathSimplified>();
+		_steering = GetComponent<SteerForPathSimplifiedCircular>();
 		AssignPath();
 	}
 
@@ -26,8 +25,10 @@ public class PathFollowingController : MonoBehaviour
 	void AssignPath()
 	{
 		// Get a list of points to follow;
-		var pathPoints = PathFromRoot(_pathRoot);
-		_steering.Path = _followAsSpline ? new SplinePathway(pathPoints, 1) : new Vector3Pathway(pathPoints, 1);
+		var pathPoints    = PathFromRoot(_pathRoot);
+		var splinePathWay =  new SplinePathway(pathPoints, 1);
+		
+		_steering.Path = _followAsSpline ? splinePathWay : new Vector3Pathway(pathPoints, 1);
 	}
 
 	static List<Vector3> PathFromRoot(Transform root)
