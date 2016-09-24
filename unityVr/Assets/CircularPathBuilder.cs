@@ -25,19 +25,18 @@ public class CircularPathBuilderEditor : Editor{
 	public override void OnInspectorGUI(){
 		DrawDefaultInspector();
 		if(GUILayout.Button("Update Path")){
+			generatePath();
+		}
+	}
+
+	public void generatePath(){
+		if(GUILayout.Button("Update Path")){
 			float     radius    = Target.radius;
 			int       nodes     = Target.numberOfNodes;
 			Transform prefab    = Target.prefab;
 			Transform transform = Target.transform;
 
-			while(transform.childCount > 0){
-				foreach(Transform child in transform){
-					Debug.Log("delete " + transform.childCount);
-					DestroyImmediate(child.gameObject);
-				}
-			}
-
-
+			deleteAllElements();
 
 			for(int i = 0; i < nodes; i++){
 				Vector3 position = new Vector3(
@@ -45,10 +44,21 @@ public class CircularPathBuilderEditor : Editor{
 					Mathf.Cos((i * Mathf.PI * 2) / (float)nodes),
 					0
 				);
-				position *= radius;
+				position        *= radius;
 				Transform child  = Instantiate(prefab);
-				child.parent = transform;
-				child.position = position;
+				child.parent     = transform;
+				child.position   = position;
+			}
+		}
+	}
+	
+	public void deleteAllElements(){
+		Transform transform = Target.transform;
+		//Delete all old Elements
+		while(transform.childCount > 0){
+			foreach(Transform child in transform){
+				Debug.Log("delete " + transform.childCount);
+				DestroyImmediate(child.gameObject);
 			}
 		}
 	}
