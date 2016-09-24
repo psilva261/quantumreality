@@ -150,9 +150,19 @@ ModelImporter:
     2300000: Cube_002
     2300002: Ground
     2300004: hair
+    2300006: Body
+    2300008: Body_001
+    2300010: Body_002
+    2300012: Shoe
+    2300014: Shoe_001
     3300000: Cube_002
     3300002: Ground
     3300004: hair
+    3300006: Body
+    3300008: Body_001
+    3300010: Body_002
+    3300012: Shoe
+    3300014: Shoe_001
     4300000: Ground
     4300002: hair
     4300004: Cube_002
