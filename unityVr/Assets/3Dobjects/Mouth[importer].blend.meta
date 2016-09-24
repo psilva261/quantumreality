@@ -16,9 +16,11 @@ ModelImporter:
     2300000: Cube
     2300002: Cylinder
     2300004: Plane
+    2300006: //RootNode
     3300000: Cube
     3300002: Cylinder
     3300004: Plane
+    3300006: //RootNode
     4300000: Plane
     4300002: Cube
     4300004: Cylinder
