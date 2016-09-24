@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:unityVr/Assets/3Dobjects/Materials/eyes.mat.meta
+guid: 700a744dea6af4a38acc07e9abfdb0a1
+timeCreated: 1474740228
+=======
 guid: e4ebf7d0d7a4546b985c678b0a70148a
 timeCreated: 1474749644
+>>>>>>> 11eee6279b1bec3d6b4843d39e8582cc363b1e80:unityVr/Assets/3Dobjects/Materials/Bronze.mat.meta
 licenseType: Free
 NativeFormatImporter:
   userData: 

@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 2bff2675e506e4f018927f7e577aedaa
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AC_Connector
+    100002: CD_Spindle
+    100004: Disc_Control
+    100006: Eject_button
+    100008: Grill
+    100010: Inside_Equipment
+    100012: Lens
+    100014: Lens_Control
+    100016: Lid
+    100018: Lid_Cogs
+    100020: Lid_Control
+    100022: Memory_Card_1
+    100024: Memory_Card_2
+    100026: Open_Text
+    100028: Pad_Connectors
+    100030: //RootNode
+    100032: Playstation_Logo
+    100034: Power_Button
+    100036: Power_Text
+    100038: Rear_Connectors
+    100040: Reset_Button
+    100042: Reset_Button_Text
+    100044: Sony_Logo
+    100046: Template_Disc
+    400000: AC_Connector
+    400002: CD_Spindle
+    400004: Disc_Control
+    400006: Eject_button
+    400008: Grill
+    400010: Inside_Equipment
+    400012: Lens
+    400014: Lens_Control
+    400016: Lid
+    400018: Lid_Cogs
+    400020: Lid_Control
+    400022: Memory_Card_1
+    400024: Memory_Card_2
+    400026: Open_Text
+    400028: Pad_Connectors
+    400030: //RootNode
+    400032: Playstation_Logo
+    400034: Power_Button
+    400036: Power_Text
+    400038: Rear_Connectors
+    400040: Reset_Button
+    400042: Reset_Button_Text
+    400044: Sony_Logo
+    400046: Template_Disc
+    2300000: AC_Connector
+    2300002: CD_Spindle
+    2300004: Eject_button
+    2300006: Grill
+    2300008: Inside_Equipment
+    2300010: Lens
+    2300012: Lid
+    2300014: Lid_Cogs
+    2300016: Pad_Connectors
+    2300018: //RootNode
+    2300020: Power_Button
+    2300022: Rear_Connectors
+    2300024: Reset_Button
+    2300026: Template_Disc
+    3300000: AC_Connector
+    3300002: CD_Spindle
+    3300004: Eject_button
+    3300006: Grill
+    3300008: Inside_Equipment
+    3300010: Lens
+    3300012: Lid
+    3300014: Lid_Cogs
+    3300016: Pad_Connectors
+    3300018: //RootNode
+    3300020: Power_Button
+    3300022: Rear_Connectors
+    3300024: Reset_Button
+    3300026: Template_Disc
+    4300000: Base
+    4300002: Rear_Connectors
+    4300004: AC_Connector
+    4300006: Lens
+    4300008: Inside_Equipment
+    4300010: Template_Disc
+    4300012: CD_Spindle
+    4300014: Lid_Cogs
+    4300016: Eject_button
+    4300018: Grill
+    4300020: Pad_Connectors
+    4300022: Power_Button
+    4300024: Reset_Button
+    4300026: Lid
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,7 +10,7 @@ public class PathFollowingController : MonoBehaviour
 
 	SteerForPathSimplified _steering;
 
-	[SerializeField] Transform _pathRoot;
+	[SerializeField] public Transform _pathRoot;
 
 	[SerializeField] bool _followAsSpline;
 

@@ -1,7 +1,5 @@
 fileFormatVersion: 2
-guid: 6546abcc49c284cebbb1b68ba8043a23
-timeCreated: 1474734383
-licenseType: Free
+guid: 45e819f3c746e4fd28be5082b4c655e4
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -9,7 +7,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Neko_body
+    4300000: eyelashes
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -36,7 +34,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 2.94
+    globalScale: 0
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
