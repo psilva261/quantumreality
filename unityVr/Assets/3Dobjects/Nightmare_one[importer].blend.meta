@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 32c8bbe2679e34853861d902430dee6d
 timeCreated: 1474740242
+=======
+guid: 181b079fa75744401b9c18d1f59726ac
+timeCreated: 1474737748
+>>>>>>> origin/master
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -18,11 +23,17 @@ ModelImporter:
     2300000: Headstone
     2300002: Plane_001_MeshPart0
     2300004: Plane_001_MeshPart1
+<<<<<<< HEAD
     2300006: //RootNode
     3300000: Headstone
     3300002: Plane_001_MeshPart0
     3300004: Plane_001_MeshPart1
     3300006: //RootNode
+=======
+    3300000: Headstone
+    3300002: Plane_001_MeshPart0
+    3300004: Plane_001_MeshPart1
+>>>>>>> origin/master
     4300000: Plane_001_MeshPart0
     4300002: Plane_001_MeshPart1
     4300004: Headstone

@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 350bc6e66686c438c8e0bd92f2426571
 timeCreated: 1474734373
+=======
+guid: 35d0b2a0fc6d24080b7f8f24d95af1b2
+timeCreated: 1474737877
+>>>>>>> origin/master
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -24,13 +29,19 @@ ModelImporter:
     2300004: Brain_high_MeshPart2
     2300006: Brain_high_MeshPart3
     2300008: Brain_low
+<<<<<<< HEAD
     2300010: //RootNode
+=======
+>>>>>>> origin/master
     3300000: Brain_high_MeshPart0
     3300002: Brain_high_MeshPart1
     3300004: Brain_high_MeshPart2
     3300006: Brain_high_MeshPart3
     3300008: Brain_low
+<<<<<<< HEAD
     3300010: //RootNode
+=======
+>>>>>>> origin/master
     4300000: Brain_high_MeshPart0
     4300002: Brain_high_MeshPart1
     4300004: Brain_high_MeshPart2

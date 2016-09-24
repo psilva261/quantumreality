@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 037ef090f36da4a88a8ecb4064e24bcb
 timeCreated: 1474734324
+=======
+guid: 62fcfe75fd98e4737bd52014b303c44d
+timeCreated: 1474737964
+>>>>>>> origin/master
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -58,11 +63,17 @@ ModelImporter:
     2300000: Eye_Left
     2300002: Eye_Right
     2300004: Plane_004
+<<<<<<< HEAD
     2300006: Plane_001
     3300000: Eye_Left
     3300002: Eye_Right
     3300004: Plane_004
     3300006: Plane_001
+=======
+    3300000: Eye_Left
+    3300002: Eye_Right
+    3300004: Plane_004
+>>>>>>> origin/master
     4300000: Plane_004
     4300002: Eye_Right
     4300004: Eye_Left
