@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 0decb61f201b04ae985039eb28480fb4
+timeCreated: 1474733376
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: light_plane
+    100002: light_plane_001
+    100004: Plane
+    100006: sushi_dish
+    100008: //RootNode
+    100010: sushi_rice
+    100012: sushi_rice_particle-object
+    100014: Suzanne
+    100016: Suzanne_001
+    100018: wasabi_Suzanne
+    400000: light_plane
+    400002: light_plane_001
+    400004: Plane
+    400006: sushi_dish
+    400008: //RootNode
+    400010: sushi_rice
+    400012: sushi_rice_particle-object
+    400014: Suzanne
+    400016: Suzanne_001
+    400018: wasabi_Suzanne
+    2300000: light_plane
+    2300002: light_plane_001
+    2300004: Plane
+    2300006: sushi_dish
+    2300008: sushi_rice
+    2300010: sushi_rice_particle-object
+    2300012: Suzanne
+    2300014: Suzanne_001
+    2300016: wasabi_Suzanne
+    3300000: light_plane
+    3300002: light_plane_001
+    3300004: Plane
+    3300006: sushi_dish
+    3300008: sushi_rice
+    3300010: sushi_rice_particle-object
+    3300012: Suzanne
+    3300014: Suzanne_001
+    3300016: wasabi_Suzanne
+    4300000: Plane
+    4300002: light_plane_001
+    4300004: light_plane
+    4300006: sushi_dish
+    4300008: wasabi_Suzanne
+    4300010: sushi_rice
+    4300012: Suzanne_001
+    4300014: Suzanne
+    4300016: sushi_rice_particle-object
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
