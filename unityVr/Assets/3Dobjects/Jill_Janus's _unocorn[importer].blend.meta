@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: ccb07a457d25447b7b00348a7fdca392
+timeCreated: 1474738123
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: def-biceps_L
+    100002: def-biceps_R
+    100004: DEF-kopytoprzod_L
+    100006: DEF-kopytoprzod_R
+    100008: "DEF-nadp\u0119cinowa_L"
+    100010: "DEF-nadp\u0119cinowa_R"
+    100012: DEF-ogon_001
+    100014: DEF-ogon_002
+    100016: DEF-piszczelowa_L
+    100018: DEF-piszczelowa_R
+    100020: DEF-promieniowa_L
+    100022: DEF-promieniowa_R
+    100024: "DEF-p\u0119cinowa_L"
+    100026: "DEF-p\u0119cinowa_R"
+    100028: DEF-ramienna_L
+    100030: DEF-ramienna_R
+    100032: DEF-siodlo
+    100034: DEF-szyja_001
+    100036: DEF-szyja_002
+    100038: DEF-szyja_003
+    100040: DEF-szyja_004
+    100042: DEF-t-palec_001_L
+    100044: DEF-t-palec_001_R
+    100046: DEF-t-palec_002_L
+    100048: DEF-t-palec_002_R
+    100050: "DEF-t-\u015Br_dstopia_L"
+    100052: "DEF-t-\u015Br_dstopia_R"
+    100054: DEF-udowa_L
+    100056: DEF-udowa_R
+    100058: DEF-zad
+    100060: "DEF-\u0142eb"
+    100062: "def-\u0142opatka_L"
+    100064: "def-\u0142opatka_R"
+    100066: "DEF-\u017Cebra"
+    100068: horse_Armature
+    100070: //RootNode
+    100072: kon
+    100074: kon_oczy
+    100076: Root
+    400000: def-biceps_L
+    400002: def-biceps_R
+    400004: DEF-kopytoprzod_L
+    400006: DEF-kopytoprzod_R
+    400008: "DEF-nadp\u0119cinowa_L"
+    400010: "DEF-nadp\u0119cinowa_R"
+    400012: DEF-ogon_001
+    400014: DEF-ogon_002
+    400016: DEF-piszczelowa_L
+    400018: DEF-piszczelowa_R
+    400020: DEF-promieniowa_L
+    400022: DEF-promieniowa_R
+    400024: "DEF-p\u0119cinowa_L"
+    400026: "DEF-p\u0119cinowa_R"
+    400028: DEF-ramienna_L
+    400030: DEF-ramienna_R
+    400032: DEF-siodlo
+    400034: DEF-szyja_001
+    400036: DEF-szyja_002
+    400038: DEF-szyja_003
+    400040: DEF-szyja_004
+    400042: DEF-t-palec_001_L
+    400044: DEF-t-palec_001_R
+    400046: DEF-t-palec_002_L
+    400048: DEF-t-palec_002_R
+    400050: "DEF-t-\u015Br_dstopia_L"
+    400052: "DEF-t-\u015Br_dstopia_R"
+    400054: DEF-udowa_L
+    400056: DEF-udowa_R
+    400058: DEF-zad
+    400060: "DEF-\u0142eb"
+    400062: "def-\u0142opatka_L"
+    400064: "def-\u0142opatka_R"
+    400066: "DEF-\u017Cebra"
+    400068: horse_Armature
+    400070: //RootNode
+    400072: kon
+    400074: kon_oczy
+    400076: Root
+    4300000: kon
+    4300002: kon_oczy
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: kon
+    13700002: kon_oczy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
