@@ -1,22 +1,17 @@
 fileFormatVersion: 2
-guid: c0b9381a906514fe9aceb0c3538226b0
-timeCreated: 1474790078
+guid: 39f0904757aa143e98551b5343f3b238
+timeCreated: 1474790077
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: polymsh
-    100004: polymsh001
+    100002: Sphere
     400000: //RootNode
-    400002: polymsh
-    400004: polymsh001
-    2300000: polymsh
-    2300002: polymsh001
-    3300000: polymsh
-    3300002: polymsh001
-    4300000: polymsh
-    4300002: polymsh001
+    400002: Sphere
+    2300000: Sphere
+    3300000: Sphere
+    4300000: Sphere
   materials:
     importMaterials: 1
     materialName: 0
@@ -41,8 +36,8 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
-    meshCompression: 0
+    globalScale: 0.08
+    meshCompression: 3
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

@@ -1,17 +1,62 @@
 fileFormatVersion: 2
-guid: adbbe4e172b7148809e1e9a9397ca65d
-timeCreated: 1474790078
+guid: 983baf667adbf4f8bb897fc58b223f29
+timeCreated: 1474754565
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Apple
-    100002: //RootNode
-    400000: Apple
-    400002: //RootNode
-    2300000: Apple
-    3300000: Apple
-    4300000: Apple
+    100000: Crown
+    100002: Eye
+    100004: Eye2
+    100006: Eyebrows
+    100008: King_Boo
+    100010: //RootNode
+    100012: Tongue
+    100014: Tooth
+    100016: Tooth2
+    100018: Tooth3
+    400000: Crown
+    400002: Eye
+    400004: Eye2
+    400006: Eyebrows
+    400008: King_Boo
+    400010: //RootNode
+    400012: Tongue
+    400014: Tooth
+    400016: Tooth2
+    400018: Tooth3
+    2300000: Crown
+    2300002: Eye
+    2300004: Eye2
+    2300006: Eyebrows
+    2300008: King_Boo
+    2300010: //RootNode
+    2300012: Tongue
+    2300014: Tooth
+    2300016: Tooth2
+    2300018: Tooth3
+    3300000: Crown
+    3300002: Eye
+    3300004: Eye2
+    3300006: Eyebrows
+    3300008: King_Boo
+    3300010: //RootNode
+    3300012: Tongue
+    3300014: Tooth
+    3300016: Tooth2
+    3300018: Tooth3
+    4300000: KingBoo
+    4300002: Eye2
+    4300004: Eye
+    4300006: Eyebrows
+    4300008: Tooth3
+    4300010: Tooth2
+    4300012: Tooth
+    4300014: Crown
+    4300016: Tongue
+    4300018: King_Boo
+    7400000: Default Take
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -37,7 +82,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 3
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
@@ -70,7 +115,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

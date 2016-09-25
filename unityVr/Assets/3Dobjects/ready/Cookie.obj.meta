@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: 230764ce36a6a43aaabcd51b398b6d20
-timeCreated: 1474790077
+guid: c0b9381a906514fe9aceb0c3538226b0
+timeCreated: 1474790078
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: default
-    100002: //RootNode
-    400000: default
-    400002: //RootNode
-    2300000: default
-    3300000: default
-    4300000: default
+    100000: //RootNode
+    100002: polymsh
+    100004: polymsh001
+    400000: //RootNode
+    400002: polymsh
+    400004: polymsh001
+    2300000: polymsh
+    2300002: polymsh001
+    3300000: polymsh
+    3300002: polymsh001
+    4300000: polymsh
+    4300002: polymsh001
   materials:
     importMaterials: 1
     materialName: 0
@@ -37,7 +42,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 3
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0

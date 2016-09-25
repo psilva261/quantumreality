@@ -7,7 +7,7 @@ public class CircularPathBuilder : MonoBehaviour {
 		orbital_3d
 	};
 	public orbitalTypes       orbitalType = orbitalTypes.orbital_1s;
-	public int       resolution  = 10;
+	public int       resolution  = 100;
 	public float     radius      = 1;
 	public Transform prefab;
 	public bool      generateOnStart = true;
@@ -35,12 +35,13 @@ public class CircularPathBuilder : MonoBehaviour {
 
 			switch (orbitalType) {
 			case orbitalTypes.orbital_1s:
-				x = (i * Mathf.PI * 2) / (float)resolution;
+				x = 10 * (i * Mathf.PI * 2) / (float)resolution;
+				y = (i * Mathf.PI * 2) / (float)resolution;
 
 				position = new Vector3 (
-					Mathf.Sin (x),
-					Mathf.Cos (x),
-					0
+					Mathf.Sin (x) * Mathf.Sin(y),
+					Mathf.Cos (x) * Mathf.Sin(y),
+					Mathf.Cos(y)
 				);
 				position *= radius;
 				break;

@@ -1,43 +1,17 @@
 fileFormatVersion: 2
-guid: 49b468347cf85428d947f7d556469611
-timeCreated: 1474733591
+guid: adbbe4e172b7148809e1e9a9397ca65d
+timeCreated: 1474790078
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Empty_001
-    100004: Sphere_002
-    100006: Sphere_002_MeshPart0
-    100008: Sphere_002_MeshPart1
-    100010: teeth_lowres_001
-    100012: teeth_lowres_001_MeshPart0
-    100014: teeth_lowres_001_MeshPart1
-    400000: //RootNode
-    400002: Empty_001
-    400004: Sphere_002
-    400006: Sphere_002_MeshPart0
-    400008: Sphere_002_MeshPart1
-    400010: teeth_lowres_001
-    400012: teeth_lowres_001_MeshPart0
-    400014: teeth_lowres_001_MeshPart1
-    2300000: Sphere_002_MeshPart0
-    2300002: Sphere_002_MeshPart1
-    2300004: teeth_lowres_001_MeshPart0
-    2300006: teeth_lowres_001_MeshPart1
-    2300008: //RootNode
-    3300000: Sphere_002_MeshPart0
-    3300002: Sphere_002_MeshPart1
-    3300004: teeth_lowres_001_MeshPart0
-    3300006: teeth_lowres_001_MeshPart1
-    3300008: //RootNode
-    4300000: teeth_lowres_001_MeshPart0
-    4300002: teeth_lowres_001_MeshPart1
-    4300004: Sphere_002_MeshPart0
-    4300006: Sphere_002_MeshPart1
-    4300008: Sphere_002
-    7400000: Default Take
-    9500000: //RootNode
+    100000: Apple
+    100002: //RootNode
+    400000: Apple
+    400002: //RootNode
+    2300000: Apple
+    3300000: Apple
+    4300000: Apple
   materials:
     importMaterials: 1
     materialName: 0
@@ -63,7 +37,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 3
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
@@ -96,7 +70,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
