@@ -29,15 +29,12 @@ public class CircularPathBuilder : MonoBehaviour {
 		deleteAllElements();
 
 		for(int i = 0; i < resolution; i++){
-			float x;
-			float y = Mathf.PI / 2;;
+			float x = 10 * (i * Mathf.PI * 2) / (float)resolution;
+			float y = (i * Mathf.PI * 2) / (float)resolution;
 			Vector3 position = new Vector3(0,0,0);
 
 			switch (orbitalType) {
 			case orbitalTypes.orbital_1s:
-				x = 10 * (i * Mathf.PI * 2) / (float)resolution;
-				y = (i * Mathf.PI * 2) / (float)resolution;
-
 				position = new Vector3 (
 					Mathf.Sin (x) * Mathf.Sin(y),
 					Mathf.Cos (x) * Mathf.Sin(y),
@@ -46,8 +43,6 @@ public class CircularPathBuilder : MonoBehaviour {
 				position *= radius;
 				break;
 			case orbitalTypes.orbital_2p:
-				x = (i * Mathf.PI * 2) / (float)resolution;
-
 				// Ellipsoid
 				position = new Vector3 (
 					Mathf.Sin (x) * Mathf.Cos (y) * Mathf.Pow (Mathf.Sqrt (3 / (4 * Mathf.PI)) * Mathf.Sin (x) * Mathf.Cos (y), 2),
@@ -57,8 +52,6 @@ public class CircularPathBuilder : MonoBehaviour {
 				position *= radius;
 				break;
 			case orbitalTypes.orbital_3d:
-				x = 2 * (i * Mathf.PI * 2) / (float)resolution;
-
 				if (i < resolution / 2) {
 					// Torus
 					float a = 0.5f;
