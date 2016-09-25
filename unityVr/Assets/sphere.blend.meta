@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: adbbe4e172b7148809e1e9a9397ca65d
-timeCreated: 1474790078
+guid: 340de9eecfc624263bab5a97a67421c4
+timeCreated: 1474799468
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Apple
-    100002: //RootNode
-    400000: Apple
-    400002: //RootNode
-    2300000: Apple
-    3300000: Apple
-    4300000: Apple
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Icosphere
+    7400000: Default Take
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -36,8 +36,8 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 5
-    meshCompression: 3
+    globalScale: 1
+    meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
@@ -70,7 +70,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
